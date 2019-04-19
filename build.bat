@@ -1,0 +1,2 @@
+pandoc bylaws.md -f markdown -t html5 --template=files\theme.html5 --pdf-engine "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"  -o bylaws.pdf
+pandoc bylaws.md -f markdown -t html5 --template=files\theme.html5 --pdf-engine "C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe"  -o bylaws.html
