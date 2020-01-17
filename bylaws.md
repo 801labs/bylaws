@@ -1,4 +1,4 @@
-# **BYLAWS OF 801 LABS** 
+# **BYLAWS OF 801 LABS**
 v1.0.1
 
 --------------------------------------------------------
@@ -18,28 +18,7 @@ The principal office of the Corporation in the State of Utah, shall be located i
 --------------------------------------------------------
 
 # ARTICLE III - MEMBERSHIP
-## SECTION 1.   Classes of Members.
-The membership of the Organization shall be two (2) classes of membership: members of the Organization, and Board of Directors members.
-
-## SECTION 2.   Election of members of the Organization.
-Every person interested in becoming a member of the Organization shall pay dues, which shall be set by the Board.
-
-## SECTION 3.   Voting Rights.
-A. Members of the Organization. 
-Members in good standing shall be entitled to vote on issues brought before the Organization by the Board of Directors for ratification.  Such issues shall be decided by simple majority affirmations.  
-
-B. Members of the Board of Directors.
-Primary governance of the organization will rest with the Board of Directors, whose members shall have the right to vote on all issues before them.  From time to time, for the purpose of unity and clarity, matters passed by the Board of Directors may, at the Board’s discretion, be brought before the general membership for ratification (See A. above).  In such circumstances, a special organizational business meeting will be either called, by voice or written instrument, with a minimum notice of five business days.
-
-## SECTION 4.   Termination of Membership.
-Any member of the Organization may terminate his/her own membership by filing a written resignation with the secretary. Any Board member that does not physically attend at least one (1) corporate activity per quarter will be terminated as a Board member. Exceptions may be made by a majority vote of the Board, up to two (2) exemptions per year, including cases of illness, temporary relocation and any other exception approved by the Board of Directors. An Organization member that does not pay his/her annual dues will have his/her Membership terminated, excluding any exception due to fiscal hardship approved by the Board of Directors. Membership may also be revoked by a vote of at least two-thirds majority of the Board.
-
-## SECTION 5.	Reinstatement of Membership.
-Any individual that has resigned and is requesting membership with the Organization may do so in writing. Those individuals who have had their membership terminated by failure to pay dues, will have membership automatically reinstated once payment of dues resumes. If membership has been revoked by the individual, or by a vote of the Board, the individual wishing to have membership reinstated may write a letter requesting to be reinstated to be approved by the Board of Directors.
-
-
-## SECTION 6.	Transfer of Membership.
-Membership in the Organization of the Organization is neither transferable nor assignable.
+Membership shall consist of the Board of Directors.
 
 --------------------------------------------------------
 
@@ -133,13 +112,13 @@ In connection with any actual or possible conflict of interest, an interested pe
 ### 3.2 Determining Whether a Conflict of Interest Exists.
 After disclosure of the financial interest and all material facts, and after any discussion with the interested person, he/she shall leave the governing board or committee meeting while the determination of a conflict of interest is discussed and voted upon. The remaining board or committee members shall decide if a conflict of interest exists.
 
-### 3.3 Procedures for Addressing the Conflict of Interest. 
+### 3.3 Procedures for Addressing the Conflict of Interest.
 (a)	An interested person may make a presentation at the governing board or committee meeting, but after the presentation, he/she shall leave the meeting during the discussion of, and the vote on, the transaction or arrangement involving the possible conflict of interest.
 (b)	The chairperson of the governing board or committee shall, if appropriate, appoint a disinterested person or committee to investigate alternatives to the proposed transaction or arrangement.
 (c)	After exercising due diligence, the governing board or committee shall determine whether the Organization can obtain with reasonable efforts a more advantageous transaction or arrangement from a person or entity that would not give rise to a conflict of interest.
 (d)	If a more advantageous transaction or arrangement is not reasonably possible under circumstances not producing a conflict of interest, the governing board or committee shall determine by a majority vote of the disinterested directors whether the transaction or arrangement is in the Organization’s best interest, for its own benefit, and whether it is fair and reasonable. In conformity with the above determination it shall make its decision as to whether to enter into the transaction or arrangement.
 
-### 3.4 Violations of the Conflicts of Interest Policy. 
+### 3.4 Violations of the Conflicts of Interest Policy.
 (a)	If the governing board or committee has reasonable cause to believe a member has failed to disclose actual or possible conflicts of interest, it shall inform the member of the basis for such belief and afford the member an opportunity to explain the alleged failure to disclose.
 (b)	If, after hearing the member’s response and after making further investigation as warranted by the circumstances, the governing board or committee determines the member has failed to disclose an actual or possible conflict of interest, it shall take appropriate disciplinary and corrective action.
 
@@ -149,9 +128,9 @@ The minutes of the governing board and all committees with board delegated power
 ## SECTION 5.	Compensation.
 5.1	A voting member of the governing board who receives compensation, directly or indirectly, from the Organization is precluded from voting on matters pertaining to that member’s compensation.
 
-5.2	A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member’s compensation. 
+5.2	A voting member of any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization for services is precluded from voting on matters pertaining to that member’s compensation.
 
-5.3	No voting member of the governing board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization, either individually or collectively, is prohibited from providing information to any committee regarding compensation. 
+5.3	No voting member of the governing board or any committee whose jurisdiction includes compensation matters and who receives compensation, directly or indirectly, from the Organization, either individually or collectively, is prohibited from providing information to any committee regarding compensation.
 
 5.4	The majority of our Board of Directors will be non-salaried and will not be related to salaried personnel or to parties providing services. In addition, all compensation decisions will be made by the Board of Directors.
 
